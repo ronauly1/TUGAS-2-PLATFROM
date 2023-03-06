@@ -1,0 +1,17 @@
+body { /*PROGRAM INI UNTUK MEMBERIKAN WARNA PADA HTML MATERI*/
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #666;
+  }
+  
+  a {
+    color: #0099ff;
+  }
+  
